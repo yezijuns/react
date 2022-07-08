@@ -1,0 +1,9 @@
+1，使用styled-Components进行css管理，防止css样式冲突
+2，通过Reset.css使得项目在不同游览器上表示一致
+3，使用iconfont与react-transition-group实现样式布局并提供动画效果
+4，使用react-Redux进行数据管理
+5，使用combineReducers完成对数据的拆分管理(集合管理redux数据)
+6，使用immutable管理store中数据，提高数据保存安全性，防止错误更改。
+7，使用Redux-thunk中间组件，实现ajax数据请求与异步代码拆分需求
+8，使用react-router-dom管理路由功能
+

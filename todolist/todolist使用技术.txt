@@ -1,0 +1,6 @@
+1，使用antd实现页面布局，增强美观性
+2，使用charles实现本地数据mock,进行数据调试
+3，通过actionTypes进行type数据管理，更方便后续项目规划
+4，使用actionCreator同一创建action,进行统一管理，提高代码的可维护性
+5，分别使用Redux-saga，Redux-thunk中间组件，实现ajax数据请求与异步代码拆分需求
+6，后续使用React-redux进行项目改造。
